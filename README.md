@@ -1,5 +1,6 @@
 # GIT
 Hello all who have read this file!
+Changes from git_0.
 ## Materials
 
 1. [The most useful git commands](https://orga.cat/posts/most-useful-git-commands)
