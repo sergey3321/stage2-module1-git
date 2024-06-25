@@ -1,5 +1,5 @@
-Changed Changed Line 1 in git_1 in git_1
-Changed Changed Line 2 in git_1 in git_1
+Changed Line 1 in git_1 in git_1
+Changed Line 2 in git_1 in git_1
 Changed Line 3 in git_1
 Changed Line 4 in git_1
 Line 5
@@ -7,4 +7,4 @@ Line 6
 Line 7
 Line 8
 Line 9
-Changed Changed Line 1 in git_1 in git_10
+Changed Line 1 in git_1 in git_10
