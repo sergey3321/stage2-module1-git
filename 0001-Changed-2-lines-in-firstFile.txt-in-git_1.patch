@@ -1,0 +1,23 @@
+From ba82e57ecf14cd6a227ebff9cd4562c73364a889 Mon Sep 17 00:00:00 2001
+From: sergey3321 <mail.sergey21@gmail.com>
+Date: Tue, 25 Jun 2024 12:25:38 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | Bin 146 -> 122 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 27832ee74469835edc47d6ff298d28075490e75d..f5ee0bf0bbdbbcaed48cf1711f513733975281e1 100644
+GIT binary patch
+literal 122
+zcmZ?HNX$!5O;Pa4%u7`;RLIOzNY5;ZH{^0g7B@nOgVh;xfhiLRWeTCpAe1?TvVc&Q
+Ls0JY{FyI0J^-LsE
+
+literal 146
+zcmezW&xawCA&()IL4m=Lfr|mbGeY4Rqwq{nc%~>kGZdaV3eN(CXNkfyWH4ah1&ROw
+D&~6ny
+
+-- 
+2.45.1.windows.1
+
